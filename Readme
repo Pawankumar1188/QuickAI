@@ -1,6 +1,3 @@
-Here is the clean, plain-text version of your updated README formatted specifically to be copied and used directly as code (without HTML, badges, or markdown tables):
-
-```text
 # QUICKAI
 
 AI-Powered Content Generation at Your Fingertips
@@ -157,7 +154,7 @@ QuickAI/
 ### Installation Steps
 
 1. Clone the project repository from GitHub:
-git clone https://github.com/elyse502/QuickAI.git
+git clone https://github.com/Pawankumar1188/QuickAiFrontend
 cd QuickAI
 
 2. Install the necessary dependencies for the client dashboard:
@@ -244,5 +241,3 @@ Deploy your server folder to an environment host capable of continuous Node.js r
 
 ### Database Hosting (Neon)
 Create a serverless PostgreSQL cluster instance directly on Neon (https://neon.tech/) and paste the provided connection string inside your backend environmental parameters.
-
-```
